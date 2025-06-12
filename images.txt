@@ -10,3 +10,8 @@ tomcat:9.0.106-jdk8
 calico/cni:v3.30.1-76-gffbcb17ee0fd-fips-amd64
 calico/node:v3.30.1-76-gffbcb17ee0fd-fips-amd64
 calico/kube-controllers:v3.30.1-76-gffbcb17ee0fd-fips-amd64
+calico/csi:v3.30.1-76-gffbcb17ee0fd-fips-amd64
+calico/node-driver-registrar:v3.30.1-76-gffbcb17ee0fd-fips-amd64
+calico/goldmane:v3.30.1-76-gffbcb17ee0fd-fips-amd64
+calico/whisker-backend:v3.30.1-76-gffbcb17ee0fd-fips-amd64
+calico/whisker:v3.30.1-76-gffbcb17ee0fd-fips-amd64

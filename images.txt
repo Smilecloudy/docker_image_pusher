@@ -16,4 +16,5 @@
 #calico/whisker-backend:v3.30.1-76-gffbcb17ee0fd-arm64
 #calico/whisker:v3.30.1-76-gffbcb17ee0fd-arm64
 #calico/apiserver:v3.30.1-76-gffbcb17ee0fd-arm64
-busybox:1.35
+#busybox:1.35
+cafapi/opensuse-jre21:4.2.10
